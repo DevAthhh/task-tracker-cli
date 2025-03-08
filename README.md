@@ -1,12 +1,10 @@
 # Task Tracker CLI
 
 ## About
-___
 Task Tracker CLI is a simple task book for cases. You can add any of your tasks to it, then gradually complete them. In this application, you can update the names of cases, delete them, and mark their status.
 
 
 ## Basic commands
-___
 - update <id> <new_name>
 - delete <id>
 - mark-in-progress <id>

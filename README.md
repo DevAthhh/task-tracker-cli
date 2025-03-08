@@ -5,11 +5,11 @@ Task Tracker CLI is a simple task book for cases. You can add any of your tasks 
 
 
 ## Basic commands
-- update <id> <new_name>
-- delete <id>
-- mark-in-progress <id>
-- mark-done <id>
-- add <id> <name>
+- update \<id\> \<new_name\>
+- delete \<id\>
+- mark-in-progress \<id\>
+- mark-done \<id\>
+- add \<id\> \<name\>
 - list [condition]
     - done - returns entries marked done only
     - todo - returns entries marked todo only
